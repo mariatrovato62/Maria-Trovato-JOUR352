@@ -26,21 +26,25 @@ strong {
 
 }
 
-h2{
+.sectionheader {
   font-size: 1.5em;
   text-transform: uppercase;
   background-color:#33485e;
   color: #fff;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  width: 70%;
+  min-width: 300px;
 }
 
-h3{
+.jobtitle{
   font-weight: 600;
   font-size: 1em;
 }
 
-h4{
+.organization{
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 
 ul{font-size: 1em;}
