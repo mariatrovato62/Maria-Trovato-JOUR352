@@ -46,5 +46,10 @@ strong {
   font-weight: 400;
   font-size: 1.25em;
 }
+.date{
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+}
 
 ul{font-size: 1em;}
