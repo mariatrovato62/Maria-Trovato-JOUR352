@@ -33,6 +33,8 @@ font-weight: 400;
 
 }
 
+.containtersec
+
 .sectionheader {
   font-size: 1.5em;
   text-transform: uppercase;
@@ -40,14 +42,19 @@ font-weight: 400;
   color: #fff;
   margin-bottom: 10px;
   margin-top: 20px;
-  width: 70%;
+  width: 100%;
   min-width: 300px;
 }
 
 .jobtitle{
   font-weight: 600;
-  font-size: 1em;
+  font-size: 2em;
+  letter-spacing: 2px;
+  text-align: center;
+  font-family: Montserrat;
+
 }
+
 
 .organization{
   font-weight: 400;

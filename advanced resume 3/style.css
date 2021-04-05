@@ -1,0 +1,166 @@
+
+
+p{font-family:georgia, serif;
+  line-height: 180%;
+}
+
+
+
+
+.footer{
+  text-align: center;
+  background-color: gray;
+  font-weight: 600;
+  style: bold;
+  color: : black;
+  font-size: 25px;
+
+}
+
+
+
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.navbar-brand{
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #800020;
+}
+
+
+.nav-item
+{font-size: 25px;
+font-weight: bold;
+letter-spacing: 2px;
+color: #800020;
+
+}
+
+#aboutme{
+  font-weight: bold;
+  font-size: 2em;
+  letter-spacing: 2px;
+  color:#800020;
+  font-family: Arial;
+  text-align: center;
+  line-height: 50px;
+
+}
+
+
+
+#about-text{
+  font-size: 18px;
+  letter-spacing: 2px;
+  color:#800020;
+  font-family: Arial;
+
+}
+
+.sectionheader {
+  font-size: 3.5em;
+  text-transform: uppercase;
+  color: black;
+  letter-spacing: 3.5px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  width: 100%;
+  text-shadow: 1px 1px 2px #800020;
+  font-family: : Montserrat;
+  font-weight: bold;
+}
+
+
+
+.containersec{
+  background-color: #d3d3d3;
+margin-left: 0;
+margin-right: 0;
+
+
+}
+
+
+
+
+
+
+
+
+.jobtitle{
+  font-size: 1.25em;
+  letter-spacing: 1.5px;
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+
+
+}
+
+.skills{
+  background-color: #d3d3d3;
+margin-left: 0;
+margin-right: 0;
+margin-bottom: 20px;
+margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.organization{
+  font-weight: bold;
+  font-size: 1.5em;
+  letter-spacing: 2px;
+  color:#800020;
+  font-family: Arial;
+  text-align: center;
+  line-height: 25px;
+  margin-left: 10px;
+}
+
+
+.date{
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 2px;
+  text-align: center;
+}
+
+
+ul{font-size: 1em;}
+
+.description{
+  font-family: Arial;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: 50px;
+}
+
+
+.contact{
+    font-size: 1.25em;
+    letter-spacing: 1.5px;
+    font-family: Arial;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  
+
+}
